@@ -1,0 +1,15 @@
+{
+  "name": "odysseus-rueckfahrt-quiz",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Statisches Odysseus-Literaturspiel nach Auguste Lechner – zwölf Missionen, vier Level, 60 Punkte.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "node --test tests/engine.test.mjs",
+    "check": "node --check dist/app.js && node --check dist/engine.js && node --check dist/missions.js && node scripts/check.mjs",
+    "build": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
