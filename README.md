@@ -1,5 +1,7 @@
 # Odysseus – Rückfahrt mit Hindernissen
 
+**[Jetzt spielen](https://patrickfischerksa.github.io/odysseus-quiz-online/)** · [GitHub-Repository](https://github.com/PatrickFischerKSA/odysseus-quiz-online)
+
 Ein vollständig im Browser spielbares Literaturquiz nach Auguste Lechners *Die Abenteuer des Odysseus*: zwölf bebilderte Missionen, vier steigende Schwierigkeitsstufen, maximal 60 Punkte. Für Einzelpersonen oder Crews von 2–4 Lernenden an einem Gerät.
 
 ## Spielen
